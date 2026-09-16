@@ -1,5 +1,5 @@
 ! Title: ABPVN Clean DNS Blocklist
-! Total domains: 149
+! Total domains: 148
 
 ||ad.vidverto.io^
 ||adcenter.cx^
@@ -15,6 +15,7 @@
 ||adtima-static.zascdn.me^
 ||adtima.vn^
 ||adtimaserver.vn^
+||af.bundleunum.com^
 ||agtcmuohbt.in^
 ||aiactiv.io^
 ||aj1047.online^
@@ -30,7 +31,6 @@
 ||bidgear-syndication.com^
 ||blogger.googleusercontent.com^
 ||blueseeddigital.com^
-||blvtap.com^
 ||bx.limpestpilosin.com^
 ||cdn-01.w3img.com^
 ||cdn.adop.asia^
@@ -101,9 +101,9 @@
 ||phimhdc.com^
 ||phimmoichillz.top^
 ||phimsexhayvne.com^
+||phimsexles.com^
 ||phimsexsuong3x.net^
 ||player.gliacloud.com^
-||pub-5fed774e465e4b98976b32ac90065247.r2.dev^
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^
@@ -114,7 +114,7 @@
 ||quoracdn.net^
 ||realclick.vn^
 ||rophimss.tv^
-||rphang.online^
+||rphang.ceo^
 ||s.lazada.vn^
 ||s2.truyentot.com^
 ||seccc.jasjas.xyz^
@@ -139,7 +139,6 @@
 ||vads.net.vn^
 ||vn-motchill.com^
 ||vnesports.net^
-||vuaphimsex.net^
 ||wr.brandonketting.com^
 ||www.bongdalu812.com^
 ||www.hayvn.net^
