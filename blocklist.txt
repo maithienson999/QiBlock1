@@ -1,5 +1,5 @@
 ! Title: ABPVN Clean DNS Blocklist
-! Total domains: 148
+! Total domains: 149
 
 ||ad.vidverto.io^
 ||adcenter.cx^
@@ -36,6 +36,7 @@
 ||cdn.adop.asia^
 ||cdn.adxcontent.com^
 ||cdn.lfastcdn.com^
+||cdn.phimmoihd.it.com^
 ||cdn.tpmedia.online^
 ||cdnstoremedia.com^
 ||cdnv.tpmedia.online^
