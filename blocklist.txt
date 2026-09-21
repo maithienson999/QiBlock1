@@ -1,5 +1,5 @@
 ! Title: ABPVN Clean DNS Blocklist
-! Total domains: 149
+! Total domains: 150
 
 ||ad.vidverto.io^
 ||adcenter.cx^
@@ -38,6 +38,7 @@
 ||cdn.lfastcdn.com^
 ||cdn.phimmoihd.it.com^
 ||cdn.tpmedia.online^
+||cdn.upanhlaylink.com^
 ||cdnstoremedia.com^
 ||cdnv.tpmedia.online^
 ||cdnvip.chuoichientv.net^
@@ -45,7 +46,7 @@
 ||chodansinh.net^
 ||chotlo3s.com^
 ||click.advertnative.com^
-||cliphot69.cv^
+||cliphot69.makeup^
 ||cliphotvn69.com^
 ||clobberprocurertightwad.com^
 ||cnt.trvdp.com^
@@ -102,8 +103,8 @@
 ||phe69.men^
 ||phimhdc.com^
 ||phimmoichillz.top^
-||phimsex365.tv^
 ||phimsexhayvne.com^
+||phimsexmoingay.com^
 ||phimsexsuong3x.net^
 ||player.gliacloud.com^
 ||pub.akadigital.vn^
@@ -112,7 +113,7 @@
 ||q3ei4f.rophim10.tel^
 ||qc.coccoc.com^
 ||qc.violet.vn^
-||quatvn.meme^
+||quatvn.monster^
 ||quoracdn.net^
 ||realclick.vn^
 ||rphang.wiki^
