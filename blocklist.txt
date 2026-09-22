@@ -61,7 +61,6 @@
 ||distinctrobin.com^
 ||ds.recrampwiped.com^
 ||farawayinstallation.com^
-||fasermedia.com^
 ||file1.dangcongsan.vn^
 ||fundingchoicesmessages.google.com^
 ||gamer18.net^
@@ -103,8 +102,8 @@
 ||phe69.men^
 ||phimhdc.com^
 ||phimmoichillz.top^
+||phimsexgaiviet.com^
 ||phimsexhayvne.com^
-||phimsexmoingay.com^
 ||phimsexsuong3x.net^
 ||player.gliacloud.com^
 ||pub.akadigital.vn^
@@ -116,6 +115,7 @@
 ||quatvn.monster^
 ||quoracdn.net^
 ||realclick.vn^
+||rophimss.id^
 ||rphang.wiki^
 ||s.lazada.vn^
 ||s2.truyentot.com^
