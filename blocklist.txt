@@ -1,5 +1,5 @@
 ! Title: ABPVN Clean DNS Blocklist
-! Total domains: 150
+! Total domains: 149
 
 ||ad.vidverto.io^
 ||adcenter.cx^
@@ -48,7 +48,6 @@
 ||click.advertnative.com^
 ||cliphot69.makeup^
 ||cliphotvn69.com^
-||clobberprocurertightwad.com^
 ||cnt.trvdp.com^
 ||coiphim.show^
 ||content.mediacdn.me^
@@ -116,7 +115,7 @@
 ||quoracdn.net^
 ||realclick.vn^
 ||rophimss.id^
-||rphang.wiki^
+||rphang.now^
 ||s.lazada.vn^
 ||s2.truyentot.com^
 ||seccc.jasjas.xyz^
