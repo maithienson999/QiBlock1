@@ -2,7 +2,8 @@ import urllib.request
 import re
 
 # Nguồn duy nhất: ABPVN Filter
-URL = "https://abpvn.com/filter/abpvn-i6PlHq.txt"
+URLS = "https://abpvn.com/filter/abpvn-i6PlHq.txt",
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
 
 domains = set()
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
