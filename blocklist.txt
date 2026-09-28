@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19252
+! Total domains: 19254
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -8249,6 +8249,7 @@
 ||ginchoirblessed.com^
 ||ginpithed.live^
 ||gionee.analytics.glance.inmobi.com^
+||giovang.blog^
 ||giraff.io^
 ||git.blueseed.tv^
 ||git.younetmedia.com^
@@ -12052,6 +12053,7 @@
 ||oversizedsixtieswiry.com^
 ||overture.com^
 ||ovmhwiccikr.com^
+||ovn-banner.megatech.global^
 ||ovp.iris.tv^
 ||ow-gateway.supersonicads.com^
 ||ow.a8.net^
@@ -12445,8 +12447,8 @@
 ||philacct.com^
 ||phimhdc.com^
 ||phimmoichillz.top^
-||phimsexgaiviet.com^
 ||phimsexhayvne.com^
+||phimsexsinhvien.com^
 ||phimsexsuong3x.net^
 ||phizzle.com^
 ||phluant.com^
@@ -13856,7 +13858,7 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
-||rophimss.id^
+||rophimss.nl^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
