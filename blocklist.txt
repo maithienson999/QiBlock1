@@ -13359,7 +13359,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
-||quatvn.monster^
+||quatvn.diy^
 ||query-eu-west-1.petametrics.com^
 ||query-europe-west1.petametrics.com^
 ||query-gce.petametrics.com^
