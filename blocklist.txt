@@ -8249,7 +8249,7 @@
 ||ginchoirblessed.com^
 ||ginpithed.live^
 ||gionee.analytics.glance.inmobi.com^
-||giovang.blog^
+||giovang.rent^
 ||giraff.io^
 ||git.blueseed.tv^
 ||git.younetmedia.com^
@@ -11601,6 +11601,7 @@
 ||noolt.com^
 ||northeasternobstinatedevelop.com^
 ||nossairt.net^
+||noternet.org^
 ||notes-analytics-events.apple.com^
 ||nothotdog.firstimpression.io^
 ||noti-asia.adsmoloco.com^
@@ -13858,7 +13859,6 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
-||rophimss.nl^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
