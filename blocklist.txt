@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19254
+! Total domains: 19255
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -10840,6 +10840,7 @@
 ||media.bidgear.com^
 ||media.bidr.io^
 ||media.bilsyndication.com^
+||media.chuoichientv.net^
 ||media.company-target.com^
 ||media.content.ad^
 ||media.contextweb.com^
