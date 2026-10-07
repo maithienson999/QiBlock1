@@ -5860,7 +5860,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.show^
+||coiphim.mom^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -8235,7 +8235,7 @@
 ||ghb1.adtelligent.com^
 ||ghb2.adtelligent.com^
 ||ghienphim.blog^
-||ghienphimz.show^
+||ghienphimz.mom^
 ||ghkbid.adview.com^
 ||ghochv3eng.trafficmanager.net^
 ||ght.kernh41.com^
