@@ -13872,6 +13872,7 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
+||rophimss.co.uk^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -14920,7 +14921,6 @@
 ||smac-ad.com^
 ||smadex.com^
 ||smallfunnybears.com^
-||smalltanks.co.uk^
 ||smart-ads.statsperformdev.com^
 ||smart-c.jp^
 ||smart-dmp.com^
