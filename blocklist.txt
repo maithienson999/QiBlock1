@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19298
+! Total domains: 19308
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -620,6 +620,7 @@
 ||ad.trafficgate.net^
 ||ad.turn.com^
 ||ad.tv2.no^
+||ad.twinrdengine.com^
 ||ad.uk.doubleclick.net^
 ||ad.unimhk.com^
 ||ad.us.sinaimg.cn^
@@ -3875,6 +3876,7 @@
 ||axdsz.pro^
 ||axillovely.com^
 ||axisuptown.com^
+||axjndvucr.com^
 ||axonix.com^
 ||ay.delivery^
 ||ayads.io^
@@ -4377,6 +4379,7 @@
 ||blueseeddigital.com^
 ||blueserving.com^
 ||blueswordksh.com^
+||bluetrafficstream.com^
 ||bluewhaleweb.com^
 ||blurbreimbursetrombone.com^
 ||blushingbeast.com^
@@ -5551,6 +5554,7 @@
 ||cl-data-vn.ads.heytapmobile.com^
 ||cl-data.ads.heytapmobi.com^
 ||cl.canva.com^
+||clannotillortale.com^
 ||claria.com^
 ||clarity.ms^
 ||clarium.global.ssl.fastly.net^
@@ -6034,6 +6038,7 @@
 ||contents-tracking.beop.io^
 ||contentspread.net^
 ||contentsquare.net^
+||contentsserved.com^
 ||contentstream.pl^
 ||context.iris.tv^
 ||context.qc.coccoc.com^
@@ -7886,6 +7891,7 @@
 ||firstimpression.io^
 ||firstlightera.com^
 ||fivecdm.com^
+||fixavcha.in^
 ||flagcounter.com^
 ||flairadscpc.xml-eu.ak-is2.net^
 ||flakyfeast.com^
@@ -8556,6 +8562,7 @@
 ||gusabid.adview.com^
 ||gv.habitanchowses.cyou^
 ||gv1.xdrig.com^
+||gvcaffiliates.com^
 ||gw-iad-bid.ymmobi.com^
 ||gw.conversionsapigateway.com^
 ||gw.flurry.com^
@@ -8662,7 +8669,9 @@
 ||hccxwfunnpxngz.com^
 ||hd.logging.admicro.vn^
 ||hd.mmstat.com^
+||hdacode.com^
 ||hdatssfpxrwbxs.com^
+||hdbkome.com^
 ||hdlyfrxtnjpbc.site^
 ||hdmtools.com^
 ||he.lijit.com^
@@ -10773,6 +10782,7 @@
 ||maxvaluead.com^
 ||maxymiser.com^
 ||maxymiser.net^
+||mayzaent.com^
 ||mazu.sec.miui.com^
 ||mb-click.jp^
 ||mb.logging.admicro.vn^
@@ -11264,6 +11274,7 @@
 ||moversa.com^
 ||movi11.com^
 ||movie-pass.live^
+||moviehdthai.com^
 ||movve.com^
 ||mp.4dex.io^
 ||mp.teads.tv^
@@ -13890,7 +13901,6 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
-||rophimss.co.uk^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
