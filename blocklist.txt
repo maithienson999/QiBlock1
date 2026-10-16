@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19308
+! Total domains: 19309
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -5870,7 +5870,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.mom^
+||coiphim.one^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -6638,6 +6638,7 @@
 ||datk.anythinktech.com^
 ||datk.bridgeoos.com^
 ||datk.toponadss.com^
+||datvietvacmedia.com^
 ||dau.fyber.com^
 ||db.peshitomohr.qpon^
 ||db3aqu.atdmt.com^
@@ -8253,7 +8254,7 @@
 ||ghb1.adtelligent.com^
 ||ghb2.adtelligent.com^
 ||ghienphim.blog^
-||ghienphimz.mom^
+||ghienphimz.social^
 ||ghkbid.adview.com^
 ||ghochv3eng.trafficmanager.net^
 ||ght.kernh41.com^
@@ -13327,7 +13328,7 @@
 ||q.xmlrtb.com^
 ||q2adm.lgsmartad.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
-||q3ei4f.rophim10.store^
+||q3ei4f.rophim10.work^
 ||q6.yovoads.com^
 ||q6static.yovoads.com^
 ||qa-ads.nobid.com^
@@ -13401,7 +13402,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
-||quatvn.diy^
+||quatvn.garden^
 ||query-eu-west-1.petametrics.com^
 ||query-europe-west1.petametrics.com^
 ||query-gce.petametrics.com^
