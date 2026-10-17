@@ -5187,7 +5187,7 @@
 ||cdn.permutive.com^
 ||cdn.personaclick.com^
 ||cdn.petametrics.com^
-||cdn.phimmoihd.it.com^
+||cdn.phimmoihd.online^
 ||cdn.playstream.media^
 ||cdn.pncloudfl.com^
 ||cdn.pocpoc.io^
@@ -5724,7 +5724,7 @@
 ||clientui-adserver.ibillboard.com^
 ||clikerz.net^
 ||cliksolution.com^
-||cliphot69.space^
+||cliphot69.cloud^
 ||cliphotvn69.com^
 ||clix.vn^
 ||clixco.in^
@@ -13937,7 +13937,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.now^
+||rphang.beer^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
@@ -16430,7 +16430,6 @@
 ||tipsembankment.com^
 ||tipslyrev.com^
 ||tirosagalite.com^
-||tizihay.com^
 ||tjk-njk.com^
 ||tjme.io^
 ||tk-sg.anythinktech.com^
@@ -17041,6 +17040,7 @@
 ||tvads.alphonso.tv^
 ||tvc-vpaid.winadx.com^
 ||tvc.biphim.club^
+||tvhays.top^
 ||tvigle.yadro.ru^
 ||tvpixel.com^
 ||tvx.adgrx.com^
