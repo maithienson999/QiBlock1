@@ -5870,7 +5870,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.one^
+||coiphim.club^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -8254,7 +8254,7 @@
 ||ghb1.adtelligent.com^
 ||ghb2.adtelligent.com^
 ||ghienphim.blog^
-||ghienphimz.social^
+||ghienphimz.life^
 ||ghkbid.adview.com^
 ||ghochv3eng.trafficmanager.net^
 ||ght.kernh41.com^
@@ -11275,7 +11275,6 @@
 ||moversa.com^
 ||movi11.com^
 ||movie-pass.live^
-||moviehdthai.com^
 ||movve.com^
 ||mp.4dex.io^
 ||mp.teads.tv^
@@ -12483,7 +12482,6 @@
 ||phimhdc.com^
 ||phimmoichillz.top^
 ||phimsexhayvne.com^
-||phimsexsinhvien.com^
 ||phimsexsuong3x.net^
 ||phizzle.com^
 ||phluant.com^
@@ -12654,6 +12652,7 @@
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
 ||pixnet-network-falcon.pixanalytics.com^
+||pixnet.cc^
 ||pixon.ads-pixiv.net^
 ||pjhku.com^
 ||pk.mainadv.com^
@@ -13328,7 +13327,7 @@
 ||q.xmlrtb.com^
 ||q2adm.lgsmartad.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
-||q3ei4f.rophim10.work^
+||q3ei4f.rophim10.best^
 ||q6.yovoads.com^
 ||q6static.yovoads.com^
 ||qa-ads.nobid.com^
@@ -14753,6 +14752,7 @@
 ||sexlist.com^
 ||sexmupxinh.net^
 ||sextracker.com^
+||sexviet62.com^
 ||sexviet88.cam^
 ||sexystat.com^
 ||sezwho.com^
