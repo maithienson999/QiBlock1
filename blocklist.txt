@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19309
+! Total domains: 19311
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -3754,6 +3754,7 @@
 ||atech.ne.jp^
 ||atedra.com^
 ||atemda.com^
+||atgpwurifh.in^
 ||athena-ads.wikia.com^
 ||ati-host.net^
 ||atlassbx.com^
@@ -13901,6 +13902,7 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
+||rophim1.vip^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
