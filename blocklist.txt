@@ -12653,7 +12653,6 @@
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
 ||pixnet-network-falcon.pixanalytics.com^
-||pixnet.cc^
 ||pixon.ads-pixiv.net^
 ||pjhku.com^
 ||pk.mainadv.com^
@@ -13903,6 +13902,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.vip^
+||rophimz.sh^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
