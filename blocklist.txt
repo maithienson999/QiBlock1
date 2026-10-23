@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19311
+! Total domains: 19317
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -4227,6 +4227,7 @@
 ||betweendigital.com^
 ||bewilderedblade.com^
 ||beyondsecurity.com^
+||bf.333xbet.com^
 ||bfmio.com^
 ||bfwzpynoz.com^
 ||bg4nxu2u5t.com^
@@ -7873,6 +7874,9 @@
 ||files.adform.net^
 ||files.bidtellect.com^
 ||filezoness.com^
+||film4k.fun^
+||film4k.net^
+||film4k.pl^
 ||filter.acertb.com^
 ||filter.adservme.com^
 ||filter.explorads.com^
@@ -8274,7 +8278,7 @@
 ||ginchoirblessed.com^
 ||ginpithed.live^
 ||gionee.analytics.glance.inmobi.com^
-||giovang.bet^
+||giovang.uno^
 ||giraff.io^
 ||git.blueseed.tv^
 ||git.younetmedia.com^
@@ -13327,7 +13331,7 @@
 ||q.xmlrtb.com^
 ||q2adm.lgsmartad.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
-||q3ei4f.rophim10.best^
+||q3ei4f.rophim10.cam^
 ||q6.yovoads.com^
 ||q6static.yovoads.com^
 ||qa-ads.nobid.com^
@@ -15055,6 +15059,7 @@
 ||socketio.taplytics.com^
 ||socrates-1.adtarget.me^
 ||socrates-6-1.adtarget.me^
+||sofaflix.rest^
 ||sofia.trustx.org^
 ||sofire.baidu.com^
 ||soflopxl.com^
@@ -16541,6 +16546,7 @@
 ||topdisplaynetwork.com^
 ||topgamesites.net^
 ||tophaw.com^
+||tophim.pro^
 ||toplist.cz^
 ||toplist.pornhost.com^
 ||toplistcity.com^
