@@ -13941,7 +13941,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.vip^
-||rophimz.sh^
+||rophimz.bz^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
