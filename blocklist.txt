@@ -5885,7 +5885,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.cc^
+||coiphim.mobi^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -8276,7 +8276,7 @@
 ||ghb1.adtelligent.com^
 ||ghb2.adtelligent.com^
 ||ghienphim.blog^
-||ghienphim.mobi^
+||ghienphimz.mobi^
 ||ghkbid.adview.com^
 ||ghochv3eng.trafficmanager.net^
 ||ght.kernh41.com^
@@ -13941,7 +13941,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.vip^
-||rophimz.bz^
+||rophimz.li^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -13977,7 +13977,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.beer^
+||rphang.fish^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
@@ -18444,7 +18444,7 @@
 ||www.blueseed.tv^
 ||www.boffoadsfeeds.com^
 ||www.bollywoodmenswear.com^
-||www.bongdalu813.com^
+||www.bongdalu814.com^
 ||www.bounceexchange.com^
 ||www.branch.io^
 ||www.brand-display.com^
