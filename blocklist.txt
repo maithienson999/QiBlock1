@@ -13439,7 +13439,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
-||quatvn.garden^
+||quatvn.si^
 ||query-eu-west-1.petametrics.com^
 ||query-europe-west1.petametrics.com^
 ||query-gce.petametrics.com^
