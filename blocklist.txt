@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19363
+! Total domains: 19364
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -4550,6 +4550,7 @@
 ||brznetwork.com^
 ||bs-adserver.b-cdn.net^
 ||bs.ad-stir.com^
+||bs.maltedsanxious.com^
 ||bs.nakanohito.jp^
 ||bs.serving-sys.com^
 ||bs.serving-sys.com0^
@@ -12519,6 +12520,7 @@
 ||phimmoichillz.top^
 ||phimsexhayvne.com^
 ||phimsexsuong3x.net^
+||phimsexvietsubtv.com^
 ||phizzle.com^
 ||phluant.com^
 ||phoenix-widget.com^
@@ -13976,7 +13978,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.fish^
+||rphang.shop^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
@@ -18999,7 +19001,6 @@
 ||xdiwbc.com^
 ||xdrig.com^
 ||xem20.net^
-||xemphimsex99.com^
 ||xertive.com^
 ||xfast.sbs^
 ||xfvvygrv.com^
