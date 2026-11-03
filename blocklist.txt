@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19364
+! Total domains: 19362
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -7891,7 +7891,6 @@
 ||files.adform.net^
 ||files.bidtellect.com^
 ||filezoness.com^
-||film4k.fun^
 ||film4k.net^
 ||film4k.pl^
 ||filter.acertb.com^
@@ -14325,7 +14324,6 @@
 ||s2.mellowads.com^
 ||s2.mopub.com^
 ||s2.nend.net^
-||s2.truyentot.com^
 ||s2517.com^
 ||s2d6.com^
 ||s2s.adjust.com^
