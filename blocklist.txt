@@ -5886,7 +5886,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.sbs^
+||coiphim.casa^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -13463,7 +13463,6 @@
 ||quizzicalzephyr.com^
 ||qujzruvf.com^
 ||quokkacheeks.com^
-||quoracdn.net^
 ||qwb.adblade.com^
 ||qwerfdx.com^
 ||qwertize.com^
@@ -13940,7 +13939,7 @@
 ||rollserver.xyz^
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
-||rophim1.vip^
+||rophim1.co^
 ||rophimz.li^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
@@ -18776,6 +18775,7 @@
 ||www.pvmax.net^
 ||www.qksrv.net^
 ||www.quantserve.com^
+||www.quora.com^
 ||www.reactful.com^
 ||www.realclick.vn^
 ||www.relap.io^
