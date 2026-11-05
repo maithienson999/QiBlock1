@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19362
+! Total domains: 19361
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -13940,7 +13940,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.co^
-||rophimz.li^
+||rophimz.so^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -13976,7 +13976,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.shop^
+||rphang.show^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
@@ -18442,7 +18442,7 @@
 ||www.blueseed.tv^
 ||www.boffoadsfeeds.com^
 ||www.bollywoodmenswear.com^
-||www.bongdalu814.com^
+||www.bongdalu815.com^
 ||www.bounceexchange.com^
 ||www.branch.io^
 ||www.brand-display.com^
@@ -18775,7 +18775,6 @@
 ||www.pvmax.net^
 ||www.qksrv.net^
 ||www.quantserve.com^
-||www.quora.com^
 ||www.reactful.com^
 ||www.realclick.vn^
 ||www.relap.io^
