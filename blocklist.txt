@@ -17088,7 +17088,6 @@
 ||tvads.alphonso.tv^
 ||tvc-vpaid.winadx.com^
 ||tvc.biphim.club^
-||tvhays.top^
 ||tvigle.yadro.ru^
 ||tvpixel.com^
 ||tvx.adgrx.com^
@@ -17118,6 +17117,7 @@
 ||typicalteeth.com^
 ||tyroo.com^
 ||tzegilo.com^
+||tzhay.xyz^
 ||u-ads.adap.tv^
 ||u-on.eu^
 ||u-tyo.4dex.io^
