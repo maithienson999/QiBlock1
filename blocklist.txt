@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19405
+! Total domains: 19404
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -5213,7 +5213,6 @@
 ||cdn.permutive.com^
 ||cdn.personaclick.com^
 ||cdn.petametrics.com^
-||cdn.phimmoihd.online^
 ||cdn.playstream.media^
 ||cdn.pncloudfl.com^
 ||cdn.pocpoc.io^
@@ -13974,7 +13973,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.co^
-||rophimz.so^
+||rophimz.cx^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
