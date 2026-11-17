@@ -5899,7 +5899,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.buzz^
+||coiphim.bond^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -8300,7 +8300,7 @@
 ||ghb1.adtelligent.com^
 ||ghb2.adtelligent.com^
 ||ghienphim.blog^
-||ghienphimz.mobi^
+||ghienphimz.fun^
 ||ghkbid.adview.com^
 ||ghochv3eng.trafficmanager.net^
 ||ght.kernh41.com^
@@ -13999,7 +13999,7 @@
 ||rome.specificclick.net^
 ||room-event.log-global.aliyuncs.com^
 ||rophim1.co^
-||rophimz.com.mx^
+||rophimz.ac^
 ||rose.ixbt.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||rosenberg.appmetrica.yandex.net^
@@ -14035,7 +14035,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.show^
+||rphang.bike^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
