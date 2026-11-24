@@ -14034,7 +14034,7 @@
 ||rpc.tapjoy.com^
 ||rpc.trafficfactory.biz^
 ||rpdn.relateddigital.com^
-||rphang.bike^
+||rphang.fund^
 ||rpi-staging.adpopcorn.com^
 ||rpi.adpopcorn.com^
 ||rpx-s1.adangle.online^
