@@ -1,5 +1,5 @@
 ! Title: Combined Clean DNS Blocklist
-! Total domains: 19429
+! Total domains: 19428
 
 ||0a0d-d3l1vr.b-cdn.net^
 ||0i0i0i0.com^
@@ -5898,7 +5898,7 @@
 ||coinhive.com^
 ||cointraffic.io^
 ||coinzillatag.com^
-||coiphim.asia^
+||coiphim.art^
 ||cokieshins.com^
 ||col.mobileads.msn.com^
 ||col.site24x7rum.eu^
@@ -11991,7 +11991,6 @@
 ||onmarketer.net^
 ||onmawmojth.com^
 ||onmobile.com^
-||onnetwork.tv^
 ||onrt-stsdk.vivoglobal.com^
 ||onrt.stsdk.vivoglobal.com^
 ||onscroll.com^
@@ -17153,6 +17152,7 @@
 ||tvc-vpaid.winadx.com^
 ||tvc.biphim.club^
 ||tvigle.yadro.ru^
+||tvphim.help^
 ||tvpixel.com^
 ||tvx.adgrx.com^
 ||tw-pvmax.tenmax.io^
@@ -17181,7 +17181,6 @@
 ||typicalteeth.com^
 ||tyroo.com^
 ||tzegilo.com^
-||tzhay.xyz^
 ||u-ads.adap.tv^
 ||u-on.eu^
 ||u-tyo.4dex.io^
